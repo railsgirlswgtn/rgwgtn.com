@@ -1,4 +1,24 @@
 body {
-  background: #fff;
+  background: #fff url("http://img1.etsystatic.com/000/0/5178970/il_fullxfull.299387769.jpg?ref=l2")no-repeat top left;
 }
 
+#main_container {
+   background: #fff;
+   width:600px;
+   margin-left: auto ;
+   margin-right: auto ;
+   border: 1px solid #A9290A;
+   padding:20px;
+}
+
+#header {
+  background: #DD380D; 
+  color:#fff;
+  width: 100%;
+  padding:35px 0;
+  text-align:center;
+}
+
+img .logo {
+  padding-left:20px;
+}
