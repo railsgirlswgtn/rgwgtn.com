@@ -1,24 +1,36 @@
 body {
-  background: #fff url("http://img1.etsystatic.com/000/0/5178970/il_fullxfull.299387769.jpg?ref=l2")no-repeat top left;
+  background: #d3360b;
+  font-family: 'Open Sans', helvetica, sans-serif;
+  font-weight: 300;
 }
+
+h1 { color: #d3360b; font-size: 16px; line-height: 1.2em; }
+h2 { color: #d3360b; }
+h3 { color: #603895; }
+p.intro { font-size: 22px; line-height: 1.2em; }
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+section {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+a { color: #1BB9CE; }
 
 #main_container {
-   background: #fff;
-   width:600px;
-   margin-left: auto ;
-   margin-right: auto ;
-   border: 1px solid #A9290A;
-   padding:20px;
+  background: #fff;
+  width: 70%;
+  margin-left: auto ;
+  margin-right: auto ;
+  padding: 20px 10%;
 }
 
-#header {
-  background: #DD380D; 
-  color:#fff;
-  width: 100%;
-  padding:35px 0;
-  text-align:center;
-}
-
-img .logo {
-  padding-left:20px;
+.trending {
+  float: right;
+  width: 270px;
 }
