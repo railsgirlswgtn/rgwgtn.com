@@ -1,6 +1,8 @@
-# Hello and welcome to our internet house. We are very happy to see you
+# Hello and welcome to our internet house. 
 
-This is hosted on Github Pages. That means that whatever is in the gh-pages branch goes up onto the internet. 
+We are very happy to see you.
+
+This is hosted on Github Pages. That means that whatever is in the gh-pages branch goes up onto http://www.rgwgtn.com (it takes a few minutes to go up there though). 
 
 Let Merrin or Kelly know what your github username is and we'll add you to the group so you can push to this repo.
 

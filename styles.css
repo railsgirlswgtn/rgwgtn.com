@@ -1,13 +1,36 @@
 body {
-  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+  background: #d3360b;
+  font-family: 'Open Sans', helvetica, sans-serif;
+  font-weight: 300;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+h1 { color: #d3360b; font-size: 16px; line-height: 1.2em; }
+h2 { color: #d3360b; }
+h3 { color: #603895; }
+p.intro { font-size: 22px; line-height: 1.2em; }
+
+header {
+  text-align: center;
+  margin-bottom: 40px;
 }
 
-.container {
-  max-width: 980px;
-  margin-left: auto;
-  margin-right: auto;
+section {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+a { color: #1BB9CE; }
+
+#main_container {
+  background: #fff;
+  width: 70%;
+  margin-left: auto ;
+  margin-right: auto ;
+  padding: 20px 10%;
+}
+
+.trending {
+  float: right;
+  width: 270px;
 }
