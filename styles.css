@@ -20,6 +20,11 @@ section {
   border-bottom: 1px solid #eee;
 }
 
+section section {
+  margin-left: 70px;
+  border-bottom: 0;
+}
+
 a { color: #1BB9CE; }
 
 #main_container {
